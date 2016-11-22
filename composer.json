@@ -1,0 +1,20 @@
+{
+  "name": "leandrogoncalves/wp-masonry-grid",
+  "description": "Wordpress Plugin to Implement a Custom Log Writer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Leandro",
+      "email": "leandro@lesolution.com.br"
+    }
+  ],
+  "version": "master",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.6"
+  },
+  "dist": {
+    "url": "https://github.com/leandrogoncalves/wp_custom_log.git",
+    "type": "git"
+  }
+}
